@@ -27,3 +27,6 @@ React's JSX syntax into standard JavaScript with
 After starting the watcher, you can open `index.html` in your browser to
 open the app.
 
+***
+Based on [AnthonyPAlicea](https://github.com/AnthonyPAlicea/flux) repository.
+
